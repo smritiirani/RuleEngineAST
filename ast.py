@@ -1,4 +1,4 @@
-ast.py - AST Logic (Node, Rule Parsing)
+AST Logic (Node, Rule Parsing)
 
 class Node:
     def __init__(self, node_type, left=None, right=None, value=None):
